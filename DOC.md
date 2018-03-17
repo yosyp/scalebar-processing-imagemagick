@@ -18,7 +18,7 @@ for d in ./*/; do (
     cd "$d/with-scalebars" &&
     rm 04x*.tif
     ); done
-	```
+```
 	
 ## Scalebars in batch
 ```
