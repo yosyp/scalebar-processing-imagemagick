@@ -1,5 +1,8 @@
 * Last modified <2017-06-20 Tue> by @yosyp 
 * Focus stacking and aligning images
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 ** Align
 align_image_stack -v -m -a OUT *
 
